@@ -1,9 +1,8 @@
 package 자료형;
 
-import java.util.Arrays;
 import java.util.Locale;
 
-public class MyString {
+public class StringLife {
     public static void main(String[] args) {
         String a = "Hello World"; // 리터럴 표기, intern pool에 저장
         String b = new String("Hello World"); // 방식이 다름
@@ -18,8 +17,8 @@ public class MyString {
         System.out.println(a.toUpperCase(Locale.KOREA));
         System.out.println(a.split(" ")); // return String[]
 
-
-        System.out.println(String.format("Hello %d %s", 3, "peoples"));
+        // %s: 문자열, %c: 문자 1개, %d: 정수, %f: 부동소수, %o: 8진수, %x: 16진수
+        System.out.println(String.format("Hello %02d %s", 3, "peoples"));
         System.out.printf("Hello %d %s\n", 3, "peoples");
     }
 }
