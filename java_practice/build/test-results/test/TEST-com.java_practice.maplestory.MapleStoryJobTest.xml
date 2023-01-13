@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.java_practice.maplestory.MapleStoryJobTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-13T23:38:23" hostname="lifeui-MacBookPro.local" time="0.022">
+  <properties/>
+  <testcase name="스탯 경계선 테스트" classname="com.java_practice.maplestory.MapleStoryJobTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
