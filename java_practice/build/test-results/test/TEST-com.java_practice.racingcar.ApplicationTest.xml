@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.java_practice.racingcar.ApplicationTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-01-20T06:23:59" hostname="lifeui-MacBookPro.local" time="0.425">
+<testsuite name="com.java_practice.racingcar.ApplicationTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-01-20T07:18:05" hostname="lifeui-MacBookPro.local" time="0.445">
   <properties/>
-  <testcase name="전진_정지()" classname="com.java_practice.racingcar.ApplicationTest" time="0.425">
+  <testcase name="전진_정지()" classname="com.java_practice.racingcar.ApplicationTest" time="0.445">
     <failure message="java.util.NoSuchElementException: No line found" type="java.util.NoSuchElementException">java.util.NoSuchElementException: No line found
 	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
 	at camp.nextstep.edu.missionutils.Console.readLine(Console.java:14)
