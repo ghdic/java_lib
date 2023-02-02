@@ -10,3 +10,7 @@
 * mapping: 요청을 메서드에 연결하는 부분 학습 테스트
 * handler: 요청을 처리하는 부분 학습 테스트
 * exception: 요청에 대한 예외처리 부분 학습 테스트
+
+## Spring JDBC 학습 테스트(.jdbc)
+* jdbctemplate: JdbcTemplated와 NamedParameterJdbcTemplate을 활용하여 쿼리 실행 학습 테스트
+* simpleinsert: SimpleJdbcInsert을 활용하여 insert 기능 학습 테스트
