@@ -14,3 +14,7 @@
 ## Spring JDBC 학습 테스트(.jdbc)
 * jdbctemplate: JdbcTemplated와 NamedParameterJdbcTemplate을 활용하여 쿼리 실행 학습 테스트
 * simpleinsert: SimpleJdbcInsert을 활용하여 insert 기능 학습 테스트
+
+## Spring Core 학습테스트(.core)
+* scan: component scan을 통해 스프링 빈 등록 학습 테스트
+* di: 스프링 빈들의 의존성 주입 학습 테스트
