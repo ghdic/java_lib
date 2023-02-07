@@ -18,3 +18,12 @@
 ## Spring Core 학습테스트(.core)
 * scan: component scan을 통해 스프링 빈 등록 학습 테스트
 * di: 스프링 빈들의 의존성 주입 학습 테스트
+
+## Spring MVC Config 학습테스트(.mvcconfig)
+* addViewControllers: "/" 요청 시 hello.html 페이지 응답하기
+* addInterceptors: "/admin/**" 요청 시 LoginInterceptor 동작하게 하기
+* addArgumentResolvers: AuthenticationPrincipalArgumentResolver 등록하기
+
+## Spring Auth 학습테스트(.auth)
+* sessionLogin: session 기반의 로그인 학습 테스트
+* tokenLogin: token 기반의 로그인 학습 테스트
