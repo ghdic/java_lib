@@ -27,3 +27,8 @@
 ## Spring Auth 학습테스트(.auth)
 * sessionLogin: session 기반의 로그인 학습 테스트
 * tokenLogin: token 기반의 로그인 학습 테스트
+
+## Spring Configuration(.springconfig)
+* xmlConfig: xml 기반 설정 학습 테스트
+* javaConfig: java 기반 설정 학습 테스트
+* environment: 외부 설정 학습 테스트
