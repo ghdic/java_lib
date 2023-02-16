@@ -1,1 +1,0 @@
-/Users/life/gitfolder/javalife/kotlin_basic/build/classes/kotlin/main/IOLife.class:/Users/life/gitfolder/javalife/kotlin_basic/build/classes/kotlin/main/IOLifeKt.class:/Users/life/gitfolder/javalife/kotlin_basic/build/classes/kotlin/main/MainKt.class
